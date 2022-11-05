@@ -4,4 +4,4 @@ Los descargados son:
    1. Cantidades diarias de casos a nivel nacional: 05_30_22_CSV_GENERAL.csv
    2. Cantidades de casos por cantón: 05_30_22_CSV_POSITIVOS.csv
  
-Adicionalmente, se presenta [aquí](https://github.com/Angecv/tarea2/blob/master/Tarea2.ipynb) el enlace al sitio NBViewer con la visualización del cuaderno de notas elaborado para este caso de análisis.
+Adicionalmente, se presenta [aquí](https://nbviewer.org/github/Angecv/tarea2/blob/master/Tarea2.ipynb) el enlace al sitio NBViewer con la visualización del cuaderno de notas elaborado para este caso de análisis.
